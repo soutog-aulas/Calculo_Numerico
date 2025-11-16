@@ -1,3 +1,0 @@
-# Calculo_Numerico
-Listas
-
